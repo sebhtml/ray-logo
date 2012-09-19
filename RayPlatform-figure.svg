@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="RayPlatform-figure.svg">
+   sodipodi:docname="RayPlatform-figure.svg"
+   inkscape:export-filename="/home/seb/git-clones/ray-logo/RayPlatform-figure.png"
+   inkscape:export-xdpi="115.38"
+   inkscape:export-ydpi="115.38">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -22,11 +25,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42979202"
-     inkscape:cx="516.03425"
-     inkscape:cy="491.64052"
+     inkscape:cx="515.36866"
+     inkscape:cy="499.96078"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -56,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,7 +85,7 @@
        id="path3792"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#55ff55;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#afdde9;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 23.789669,778.60894 0,-68.09524 507.619041,0 507.61909,0 0,68.09524 0,68.09526 -507.61909,0 -507.619041,0 0,-68.09526 z"
        id="path4158"
        inkscape:connector-curvature="0" />
@@ -109,18 +112,18 @@
        id="path4262"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#55ff55;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#afdde9;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="M 702.91647,151.16759 C 702.24719,101.89517 701.69868,39.46048 701.69755,12.42382 l -0.002,-49.15756 168.14642,0 168.14643,0 0,138.74377 0,138.74376 -166.92751,0 -166.9275,0 -1.21686,-89.5862 0,0 z"
        id="path4264"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#55ff55;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#afdde9;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="M 360.75088,152.04993 C 360.0816,102.77751 359.53309,40.34282 359.53196,13.30616 l -0.002,-49.15756 168.14642,0 168.14648,0 0,138.74377 0,138.74376 -166.92756,0 -166.9275,0 -1.21686,-89.5862 0,0 z"
        id="path4264-9"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#55ff55;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="M 21.542399,152.21226 C 20.873119,102.93984 20.324609,40.50515 20.323479,13.46849 l -0.002,-49.15756 168.146421,0 168.14643,0 0,138.74377 0,138.74376 -166.92751,0 -166.927501,0 -1.21686,-89.5862 0,0 z"
+       style="fill:#afdde9;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="M 19.542399,152.21226 C 18.873119,102.93984 18.324609,40.50515 18.323479,13.46849 l -0.002,-49.15756 168.146421,0 168.14643,0 0,138.74377 0,138.74376 -166.92751,0 -166.927501,0 -1.21686,-89.5862 0,0 z"
        id="path4264-3"
        inkscape:connector-curvature="0" />
   </g>
@@ -131,32 +134,32 @@
      style="display:inline"
      transform="translate(0,205.90552)">
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#0066ff;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 44.490995,206.04724 0,-68.09524 68.095235,0 68.09523,0 0,68.09524 0,68.09524 -68.09523,0 -68.095235,0 0,-68.09524 z"
        id="path4172"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#0066ff;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
        d="m 196.74495,206.04724 0,-68.09524 69.12699,0 69.12698,0 0,68.09524 0,68.09524 -69.12698,0 -69.12699,0 0,-68.09524 z"
        id="path4178"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#0066ff;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
        d="m 383.121,206.04724 0,-68.09524 68.09524,0 68.09522,0 0,68.09524 0,68.09524 -68.09522,0 -68.09524,0 0,-68.09524 z"
        id="path4172-4"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#0066ff;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
        d="m 535.37495,206.04724 0,-68.09524 69.12699,0 69.12698,0 0,68.09524 0,68.09524 -69.12698,0 -69.12699,0 0,-68.09524 z"
        id="path4178-6"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#0066ff;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
        d="m 724.97174,206.04724 0,-68.09524 68.09524,0 68.09522,0 0,68.09524 0,68.09524 -68.09522,0 -68.09524,0 0,-68.09524 z"
        id="path4172-6"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#0066ff;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
        d="m 877.22569,206.04724 0,-68.09524 69.12699,0 69.12702,0 0,68.09524 0,68.09524 -69.12702,0 -69.12699,0 0,-68.09524 z"
        id="path4178-8"
        inkscape:connector-curvature="0" />
@@ -179,7 +182,7 @@
            x="352.85715"
            y="65.205597" /></flowRegion><flowPara
          style="font-size:30px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
-         id="flowPara4108">Highly scalable software tool for the genomic community</flowPara></flowRoot>    <flowRoot
+         id="flowPara4108">Highly scalable software tool for the genomics community</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3857"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -300,7 +303,7 @@
            x="45.396824"
            y="176.63417" /></flowRegion><flowPara
          style="font-size:30px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
-         id="flowPara4102">RayPlatform computation core</flowPara><flowPara
+         id="flowPara4102">RayPlatform</flowPara><flowPara
          style="font-size:26px;text-align:center;text-anchor:middle"
          id="flowPara4106">modular plugin architecture + distributed runtime engine</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -355,19 +358,19 @@
        xml:space="preserve"
        id="flowRoot3849-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="translate(-312.71876,504.22472)"><flowRegion
+       transform="translate(-317.37217,497.2446)"><flowRegion
          id="flowRegion3851-7"><rect
            id="rect3853-4"
            width="1087.6189"
            height="231.54446"
            x="352.85715"
            y="65.205597" /></flowRegion><flowPara
-         style="font-size:26px;text-align:start;text-anchor:start;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="flowPara4108-4">Quick facts:</flowPara><flowPara
+         style="font-size:26px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Bold"
+         id="flowPara4609">Quick facts:</flowPara><flowPara
          style="font-size:26px;text-align:start;text-anchor:start"
-         id="flowPara4609" /><flowPara
+         id="flowPara4613">◦ RayPlatform assists developers during the content creation</flowPara><flowPara
          style="font-size:26px;text-align:start;text-anchor:start"
-         id="flowPara4613">◦ A software tools for the genomics community are implemented in plugins</flowPara><flowPara
+         id="flowPara3068">◦ A software tool for the genomics community is implemented as plugins</flowPara><flowPara
          style="font-size:26px;text-align:start;text-anchor:start"
          id="flowPara4617">◦ Plugins are executed by a distributed runtime engine</flowPara><flowPara
          style="font-size:26px;text-align:start;text-anchor:start"

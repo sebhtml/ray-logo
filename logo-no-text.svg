@@ -13,7 +13,7 @@
    height="744.09003"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="logo-no-text.svg"
    inkscape:export-filename="/home/seb/2010/Ray/trunk/logo/logo.png"
    inkscape:export-xdpi="90"
@@ -89,7 +89,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70735156"
      inkscape:cx="372"
@@ -97,10 +97,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-width="1024"
+     inkscape:window-height="576"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      units="mm" />
   <metadata
@@ -111,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -120,13 +120,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.27208)">
-    <rect
-       style="fill:#ffffff;stroke:none;stroke-width:1.72976219999999992;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-       id="rect2846"
-       width="742.27026"
-       height="742.27026"
-       x="0.8648811"
-       y="309.22696" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2816"
